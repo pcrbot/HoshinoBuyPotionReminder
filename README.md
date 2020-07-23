@@ -1,4 +1,4 @@
-# Hoshino Buy Medicine Reminder
+# Hoshino Buy Potion Reminder
 
 pcr 药水购买提醒小助手
 
